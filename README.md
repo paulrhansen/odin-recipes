@@ -1,4 +1,4 @@
-Create recipes site
+Created site with 3 recipes
 
-Make a boilerplate html with tags header, strong, italic, 
-emphasis, paragraph, unordered and ordered lists
+Recipes (Crook Pot Party Meatbeat Balls, Stove Top 
+Baked Bean Hotdish, Big Game Dip)
